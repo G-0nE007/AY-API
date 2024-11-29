@@ -1,2 +1,2 @@
 # AY-API
-code repo for myself
+API for AY Project
